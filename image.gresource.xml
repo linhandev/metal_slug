@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/">
+      <file>resources/util/map.png</file>
+      <file>resources/util/pending.png</file>
+      <file>resources/util/man.png</file>
+      <file>resources/util/choose.png</file>
+      <file>resources/util/intro.png</file>
+      <file>resources/util/lose.png</file>
+
+
+
+    <file>resources/player/idle/0.png</file>
+    <file>resources/player/idle/1.png</file>
+    <file>resources/player/idle/2.png</file>
+    <file>resources/player/idle/3.png</file>
+    <file>resources/player/idle/4.png</file>
+    <file>resources/player/idle/5.png</file>
+    <file>resources/player/idle/6.png</file>
+    <file>resources/player/idle/7.png</file>
+    <file>resources/player/idle/8.png</file>
+    <file>resources/player/idle/9.png</file>
+    <file>resources/player/idle/10.png</file>
+    <file>resources/player/idle/11.png</file>
+    <file>resources/player/idle/12.png</file>
+    <file>resources/player/idle/13.png</file>
+    <file>resources/player/idle/14.png</file>
+    <file>resources/player/idle/15.png</file>
+    <file>resources/player/idle/16.png</file>
+    <file>resources/player/idle/17.png</file>
+    <file>resources/player/idle/18.png</file>
+    <file>resources/player/idle/19.png</file>
+
+    <file>resources/player/turn/0.png</file>
+    <file>resources/player/turn/1.png</file>
+    <file>resources/player/turn/2.png</file>
+    <file>resources/player/turn/3.png</file>
+
+    <file>resources/player/putup/0.png</file>
+    <file>resources/player/putup/1.png</file>
+    <file>resources/player/putup/2.png</file>
+    <file>resources/player/putup/3.png</file>
+    <file>resources/player/putup/4.png</file>
+    <file>resources/player/putup/5.png</file>
+    <file>resources/player/putup/6.png</file>
+
+    <file>resources/player/aimup/0.png</file>
+
+    <file>resources/player/putdown/0.png</file>
+    <file>resources/player/putdown/1.png</file>
+    <file>resources/player/putdown/2.png</file>
+    <file>resources/player/putdown/3.png</file>
+    <file>resources/player/putdown/4.png</file>
+
+    <file>resources/player/shoot/0.png</file>
+    <file>resources/player/shoot/1.png</file>
+    <file>resources/player/shoot/2.png</file>
+    <file>resources/player/shoot/3.png</file>
+    <file>resources/player/shoot/4.png</file>
+
+    <file>resources/player/grenade/0.png</file>
+    <file>resources/player/grenade/1.png</file>
+    <file>resources/player/grenade/2.png</file>
+    <file>resources/player/grenade/3.png</file>
+    <file>resources/player/grenade/4.png</file>
+    <file>resources/player/grenade/5.png</file>
+    <file>resources/player/grenade/6.png</file>
+
+    <file>resources/player/walk/0.png</file>
+    <file>resources/player/walk/1.png</file>
+    <file>resources/player/walk/2.png</file>
+    <file>resources/player/walk/3.png</file>
+    <file>resources/player/walk/4.png</file>
+    <file>resources/player/walk/5.png</file>
+    <file>resources/player/walk/6.png</file>
+    <file>resources/player/walk/7.png</file>
+    <file>resources/player/walk/8.png</file>
+    <file>resources/player/walk/9.png</file>
+    <file>resources/player/walk/10.png</file>
+    <file>resources/player/walk/11.png</file>
+    <!-- <file>resources/player/walk/12.png</file> -->
+
+    <file>resources/player/crouch/0.png</file>
+
+    <file>resources/player/crouch_shoot/0.png</file>
+    <file>resources/player/crouch_shoot/1.png</file>
+    <file>resources/player/crouch_shoot/2.png</file>
+    <file>resources/player/crouch_shoot/3.png</file>
+    <file>resources/player/crouch_shoot/4.png</file>
+    <file>resources/player/crouch_shoot/5.png</file>
+    <file>resources/player/crouch_shoot/6.png</file>
+
+    <file>resources/player/jump/0.png</file>
+    <file>resources/player/jump/1.png</file>
+    <file>resources/player/jump/2.png</file>
+    <file>resources/player/jump/3.png</file>
+    <file>resources/player/jump/4.png</file>
+    <file>resources/player/jump/5.png</file>
+
+    <file>resources/player/fall/0.png</file>
+    <file>resources/player/fall/1.png</file>
+    <file>resources/player/fall/2.png</file>
+    <file>resources/player/fall/3.png</file>
+    <file>resources/player/fall/4.png</file>
+    <file>resources/player/fall/5.png</file>
+
+    <file>resources/player/win/0.png</file>
+    <file>resources/player/win/1.png</file>
+    <file>resources/player/win/2.png</file>
+    <file>resources/player/win/3.png</file>
+    <file>resources/player/win/4.png</file>
+    <file>resources/player/win/5.png</file>
+
+    <file>resources/player/dying/0.png</file>
+    <file>resources/player/dying/1.png</file>
+
+    <file>resources/player/dead/0.png</file>
+
+
+
+
+
+    <file>resources/projectile/bullet/up.png</file>
+    <file>resources/projectile/bullet/down.png</file>
+    <file>resources/projectile/bullet/left.png</file>
+    <file>resources/projectile/bullet/right.png</file>
+
+    <file>resources/projectile/rocket/up.png</file>
+    <file>resources/projectile/rocket/down.png</file>
+    <file>resources/projectile/rocket/left.png</file>
+    <file>resources/projectile/rocket/right.png</file>
+
+    <file>resources/projectile/bomb/up.png</file>
+    <file>resources/projectile/bomb/down.png</file>
+    <file>resources/projectile/bomb/left.png</file>
+    <file>resources/projectile/bomb/right.png</file>
+
+
+    <file>resources/enemy/zombie/idle.png</file>
+    <file>resources/enemy/zombie/dead.png</file>
+    <file>resources/enemy/zombie/bullet.png</file>
+
+    <file>resources/enemy/tank/idle.png</file>
+    <file>resources/enemy/tank/dead.png</file>
+    <file>resources/enemy/tank/bullet.png</file>
+
+    <file>resources/enemy/scientist/idle.png</file>
+    <file>resources/enemy/scientist/dead.png</file>
+    <file>resources/enemy/scientist/bullet.png</file>
+
+    <file>resources/enemy/ufo/idle.png</file>
+    <file>resources/enemy/ufo/dead.png</file>
+    <file>resources/enemy/ufo/bullet.png</file>
+
+    <file>resources/enemy/bot/idle.png</file>
+    <file>resources/enemy/bot/dead.png</file>
+    <file>resources/enemy/bot/bullet.png</file>
+
+
+
+
+
+  </gresource>
+</gresources>
