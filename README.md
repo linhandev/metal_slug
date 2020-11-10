@@ -37,4 +37,4 @@ U R ready to kill some zombies
 - [ ] Add more ground to the map so player and enemies can jump onto
 - [ ] Find more resource for enemies, currently it's just 3 pictures.
 
-Should u have any problem, contact me at davidlindev@qq.com
+Should u have any problem, contact me at linhandev@qq.com
